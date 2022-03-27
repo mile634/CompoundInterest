@@ -38,7 +38,7 @@ namespace Tests
             Assert.Pass();
         }
         
-        [Test]
+        [Test:]
         public void DesiredSumIsUnreachable_2()
         {
             int expected_result = ErrorCodes.DESIRED_SUM_IS_UNREACHABLE;
