@@ -1,0 +1,31 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6a38397b_002De924_002D4828_002D91f5_002D28e8be589feb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InputIsNotNumeric" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests.InputIsNotNumeric&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests.DesiredSumIsUnreachable&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests.NoInputWasReceived&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests.ArithmeticOverflow&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests.ValidInputCalculationResultIsFine&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests.ValidInputCalculationResultIsFine_2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests.ValidInputCalculationResultIsFine_1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests.CalculationsReachesInfinity&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests.DesiredSumIsLessThanDeposit&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests.LittleValuesAreBeingCalculatedFine_1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests.ZeroValue&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b9176c69_002D6128_002D4d67_002Dbba3_002D2e01b5dc27dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NegativeValue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bd3269ef_002D4f05_002D4871_002Db3e4_002Df5f7a35f4850/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ArithmeticOverflow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests.ArithmeticOverflow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d0be2711_002D1ed2_002D444f_002D87e5_002D78a19c18a093/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="InputIsNotNumeric_1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0CF6BA04-EB21-4EF2-AC20-A95600F7BA17::net5.0::Tests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
